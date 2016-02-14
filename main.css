@@ -1,0 +1,1 @@
+&:after { content:''; position: absolute; right: 1px; top:4px; width: 6px; height: 6px; .rotate(45deg); border-right: 1px solid black; border-bottom: 1px solid black;}
